@@ -133,7 +133,7 @@
       <!-- Footer -->
       <footer class="mastfoot mt-auto">
         <div class="inner">
-          <p>Made by Ajay in 2020 during <a href="https://www.thesparksfoundationsingapore.org/join-us/internship-positions/">#GRIP</a>(internship), for <a href="https://www.thesparksfoundationsingapore.org/">@TSF</a>.</p>
+          <p>Made by AIshwarya Mankar during internship , for <a href="https://www.thesparksfoundationsingapore.org/">@TSF</a>.</p>
         </div>
       </footer>
     </div>
