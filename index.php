@@ -93,7 +93,7 @@
        
         
         <h1 class="cover-heading"><strong>CREDIT MANAGEMENT SYSTEM</strong></h1>
-        <p class="lead">Transfer credits, view history, create users ;)</p>
+        <p class="lead">Transfer credits, view history, create users.</p>
         <p class="lead">
           <button data-toggle="modal" data-target="#createModal" class="btn btn-secondary" style="color: black; border: 2px solid black;"><strong>Create a User</strong></button>
         </p>
